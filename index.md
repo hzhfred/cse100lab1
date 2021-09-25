@@ -1,12 +1,16 @@
 # Ziheng Huang
-**Third year computer engineering major**
+### Some projects: [here](#some-current-experiments)
+**Third year computer engineering major interested in deep learning**
 
 Quote:
 > Start early Start often
 
+
+# [Some Current Experiments](#some-current-experiments)
+
 Quote code 
 
-original CVPR paper: [Spacial Consistent Representitive Learning](https://arxiv.org/abs/2103.06122):
+original CVPR paper: [Spacial Consistent Representation Learning](https://arxiv.org/abs/2103.06122):
 
 ```
 class SCRLModel(nn.Module):
