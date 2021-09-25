@@ -6,7 +6,6 @@ Quote:
 > Start early Start often
 
 
-
 # Some Current Experiments
 
 Quote code 
@@ -33,3 +32,6 @@ class SCRLModel(nn.Module):
         x = self.projhead(x) # numSample x 128
         return x
 ```
+
+
+### [link to another file](index2.md)
