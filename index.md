@@ -1,12 +1,13 @@
 # Ziheng Huang
-### Some projects: [here](#some-current-experiments)
+
 **Third year computer engineering major interested in deep learning**
 
 Quote:
 > Start early Start often
 
 
-# [Some Current Experiments](#some-current-experiments)
+
+# Some Current Experiments
 
 Quote code 
 
