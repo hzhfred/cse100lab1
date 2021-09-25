@@ -1,9 +1,25 @@
 # Ziheng Huang
 
-**Third year computer engineering major interested in deep learning**
+**Third year computer engineering major**
+
+# Interests:
+1. Deep Learning
+2. Computer vision
+3. HCI
+
+# Languages :
+-   Python
+-   Javascript
+-   java
+-   C++
 
 Quote:
 > Start early Start often
+
+# Ongoing projects:
+
+- [ ] Defect Detection
+- [ ] 3D Medical Data classification
 
 
 # Some Current Experiments
