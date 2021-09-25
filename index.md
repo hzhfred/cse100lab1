@@ -4,7 +4,10 @@
 Quote:
 > Start early Start often
 
-Quote code (Spacial Consistent Representitive Learning):
+Quote code 
+
+original CVPR paper: [Spacial Consistent Representitive Learning](https://arxiv.org/abs/2103.06122):
+
 ```
 class SCRLModel(nn.Module):
     def __init__(self,):
