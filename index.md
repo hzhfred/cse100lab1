@@ -1,7 +1,9 @@
 # Ziheng Huang
 **Third year computer engineering major**
+
 Quote:
 > Start early Start often
+
 Quote code (Spacial Consistent Representitive Learning):
 ```
 class SCRLModel(nn.Module):
